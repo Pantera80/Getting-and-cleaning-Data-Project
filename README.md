@@ -32,12 +32,14 @@ The dataset includes the following files:
 
 - 'README.md'
 
+- 'run_analysis.R'
+
 - 'TidyData.txt': Contain all the averaged 66 features for each subject and activity.
 
 - 'CodeBook.Rmd': Description of all variables.
 
 
-The current tidy version was obtain as follows:
+The current tidy version was obtain after running the file 'run_analysis.R1, which perform the following steps:
 =========================================
 
 1.  The original training and testing sets were merged to create one data set.
